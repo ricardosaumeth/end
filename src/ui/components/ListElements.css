@@ -1,0 +1,16 @@
+.listElemt {
+  cursor: pointer;
+}
+
+.listElemt a {
+  text-decoration: none;
+}
+
+.listElemt a span {
+  color: #1a1a1a;
+  text-transform: uppercase;
+  font-size: 12px;
+  letter-spacing: .1em;
+  line-height: 17px;
+}
+
